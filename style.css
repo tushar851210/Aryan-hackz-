@@ -1,0 +1,107 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    color: #00ff00;
+    font-family: 'Courier New', monospace;
+}
+
+header {
+    background: #111;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 1px solid #00ff00;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #00ff00;
+}
+
+.logo span {
+    color: white;
+}
+
+nav a {
+    margin: 0 15px;
+    color: #00ff00;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.section {
+    padding: 30px;
+    text-align: center;
+}
+
+.section.dark {
+    background-color: #111;
+}
+
+h1.glitch {
+    font-size: 32px;
+    color: #00ff00;
+    text-shadow: 0 0 5px #00ff00, 0 0 10px #00ff00;
+}
+
+.typewriter {
+    font-size: 16px;
+    color: #00ff00;
+    white-space: pre-wrap;
+}
+
+.btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background: transparent;
+    border: 2px solid #00ff00;
+    color: #00ff00;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.tool-box {
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px solid #00ff00;
+    border-radius: 10px;
+    background-color: #000;
+    width: 90%;
+    max-width: 600px;
+    text-align: left;
+}
+
+.tool-box h3 {
+    color: #00ff00;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+iframe {
+    width: 100%;
+    height: 200px;
+    border: none;
+    margin-bottom: 10px;
+}
+
+.download-link {
+    display: inline-block;
+    padding: 10px;
+    background-color: #00ff00;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #111;
+    color: #00ff00;
+    padding: 20px;
+    text-align: center;
+    border-top: 1px solid #00ff00;
+}
+
